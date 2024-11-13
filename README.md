@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript and C**
 
-- 📫 How to reach me **sifap122@gmail.com**
-
 - ⚡ Fun fact **I don't think**
 
 <h3 align="left">Connect with me:</h3>
