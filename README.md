@@ -3,8 +3,7 @@
 <h3 align="center">"A young learner, full of ambition, who believed they could conquer anything — even the world of code. With every bug, every challenge, they grew stronger, unlocking new skills and discovering that the real journey was in the process of learning itself."</h3>
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="340" height ="230" align="right" padding="200">
-
+<img src="https://github.com/sifaparveen/image-hosting/blob/main/GH_readme_gif.gif?raw=true" width="340" height ="230" align="right" padding="200">
 - 🌱 I’m currently learning **JavaScript,C**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and C**
