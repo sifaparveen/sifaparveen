@@ -4,7 +4,7 @@
 <br>
 
 <img src="https://github.com/sifaparveen/image-hosting/blob/main/GH_readme_gif.gif?raw=true" width="340" height ="230" align="right" padding="200">
-- 🌱 I’m currently learning **JavaScript,C**
+- 🌱 I’m currently learning <b>JavaScript, C</b>
 
 - 💬 Ask me about **HTML, CSS, JavaScript and C**
 
