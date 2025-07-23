@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sifa Parveen</h1>
 
-<h3 align="center">"A young learner, full of ambition, who believed they could conquer anything — even the world of code. With every bug, every challenge, they grew stronger, unlocking new skills and discovering that the real journey was in the process of learning itself."</h3>
+<h3 align="center">"A young learner, full of ambition, who believed they could conquer anything — even the world of code. With every bug, every challenge, they grew stronger, unlocking new skills and discovering that the real journey was in the process of learning itself!!"</h3>
 <br>
 
 <img src="https://github.com/sifaparveen/image-hosting/blob/main/GH_readme_gif.gif?raw=true" width="340" height ="230" align="right" padding="200">
